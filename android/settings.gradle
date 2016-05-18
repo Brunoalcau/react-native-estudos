@@ -1,0 +1,3 @@
+rootProject.name = 'menuOnline'
+
+include ':app'
